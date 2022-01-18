@@ -6,20 +6,35 @@ import java.util.Date;
 
 public class Main {
     public static void main(String[] args) {
-        Cliente cliente = new Cliente("Gabriel", "12487799652", "11 98785-5854");
-        Cliente cliente1 = new Cliente("Patricia", "1551151555", "13 1221-5150");
 
-        ContaCorrente cc = new ContaCorrente(cliente);
-        ContaPoupanca cp = new ContaPoupanca(cliente1);
+        // Instanciação de um Cliente
+        Cliente cliente1 = new Cliente("Gabriel","18978585458","15 97874-1542");
 
-     cp.depositar(3000.d);
-     //cp.depositar(1500.d);
+        // Instanciação de outro Cliente
+        Cliente cliente2 = new Cliente("Everaldo","46985632592","11 98785-2689");
 
+        // Definindo os tipos de conta para os clientes
+        // Para o cliente 1, Conta Corrente
+        ContaCorrente cc = new ContaCorrente(cliente1);
+        //Para o cliente 2, Conta Poupança
+        ContaPoupanca cp = new ContaPoupanca(cliente2);
+
+        // Para exibir extrato + informações da Conta/Cliente utilizar o método ImprimeExtrato();
+        cc.ImprimeExtrato();
         cp.ImprimeExtrato();
-        //cp.ImprimeExtrato();
 
-        cp.sacar(3001.d);
+        // Para deposito, utilizar o método depositar() e passar como parãmetro o valor a ser depositado.
+        cc.depositar(1500);
+        cp.depositar(1000);
 
-        cp.ImprimeExtrato();
+        // Para saque, utilizar o método sacar() e passar como parâmetro o valor a ser sacado.
+        cc.sacar(1000);
+        cp.sacar(1500);
+
+        // Para transferência, utilizar o método transferir(), e passar como parâmetros o valor e a conta a ser depositado o dinheiro.
+        cc.transferir(1000, cp);
+        cp.transferir(1000,cc);
+
+
     }
 }
