@@ -2,6 +2,7 @@
 
 
 Neste repositório se encontra o meu banco digital para o Desafio de Projeto, que tem o intuito de reforçar o conhecimento em Programação Orientada a Objetos.
+
 Também foi aplicado o projeto Lombok, para diminuir a verbosidade de código.
 
 Vale ressaltar que para a instanciação de uma Conta, seja ela Conta Poupança ou Conta Corrente, deve-se ser realizado primeiramente a instanciação do Cliente.
