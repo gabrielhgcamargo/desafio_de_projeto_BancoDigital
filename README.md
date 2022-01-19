@@ -46,8 +46,9 @@ Ao rodar a classe [MainExplicativo.java](https://github.com/gabrielhgcamargo/des
 
 ## 🛠️ Construído com
 * [Java 11](https://dev.java/) - Linguagem Utilizada.
-* [Maven](https://maven.apache.org/) - Gerente de Dependência.
+* [Apache Maven 3.8.4](https://maven.apache.org/) -  Ferramenta de automação e gerenciamento de projetos Java.
 * [Lombok](https://projectlombok.org/) - Utilizado para diminuir a verbosidade de código.
+* [IntelliJ](https://www.jetbrains.com/pt-br/idea/) - Ambiente de Desenvolvimento utilizado.
 
 
 ------------
