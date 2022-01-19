@@ -2,16 +2,14 @@ import Entity.Cliente;
 import Entity.ContaCorrente;
 import Entity.ContaPoupanca;
 
-import java.util.Date;
-
-public class Main {
+public class MainExplicativo {
     public static void main(String[] args) {
 
         // Instanciação de um Cliente
-        Cliente cliente1 = new Cliente("Gabriel","18978585458","15 97874-1542");
+        Cliente cliente1 = new Cliente("Gabriel","18978585458","15 97874-1542","gabrielgarcia@outlook.com");
 
         // Instanciação de outro Cliente
-        Cliente cliente2 = new Cliente("Everaldo","46985632592","11 98785-2689");
+        Cliente cliente2 = new Cliente("Everaldo","46985632592","11 98785-2689","everaldoafonso@gmail.com");
 
         // Definindo os tipos de conta para os clientes
         // Para o cliente 1, Conta Corrente
@@ -37,4 +35,5 @@ public class Main {
 
 
     }
+
 }
