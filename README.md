@@ -17,7 +17,7 @@ Instalar o Java 11
 ```
 
 ```
-Instalar o Maven -> https://maven.apache.org/
+Instalar o Apache Maven 3.8.4 -> https://maven.apache.org/
 ```
 
 ```
