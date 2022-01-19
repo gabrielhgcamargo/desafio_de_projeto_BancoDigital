@@ -48,3 +48,8 @@ Também ao rodar a classe [MainExplicativo.java](https://github.com/gabrielhgcam
 * [Java 11](https://dev.java/) - Linguagem Utilizada.
 * [Maven](https://maven.apache.org/) - Gerente de Dependência.
 * [Lombok](https://projectlombok.org/) - Utilizado para diminuir a verbosidade de código.
+
+
+------------
+
+Disponibilizado por [Gabriel Camargo](https://www.linkedin.com/in/gabrielhgcamargo/ "Gabriel Camargo").
