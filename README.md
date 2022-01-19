@@ -38,7 +38,7 @@ git clone https://github.com/gabrielhgcamargo/desafio_de_projeto_BancoDigital.gi
 
 ## ⚙️ Executando os testes
 
-#### :computer: Teste com interface de cadastro
+#### :computer: Teste com interface de cadastro e uso da Conta
 Ao rodar a classe [MainComMenu.java](https://github.com/gabrielhgcamargo/desafio_de_projeto_BancoDigital/blob/master/src/main/java/Menu/MainComMenu.java), exibirá uma interface simulando o cadastro do Cliente, e definindo que tipo de Conta esse Cliente terá. Em seguida será exibido um Menu, simulando um aplicativo do banco ou até mesmo o caixa eletrônico, onde é possível realizar um saque, depósito, transferência, e simulação de rendimento.
 
 #### :bookmark_tabs: Teste + Explicação de cada comando possível do projeto
