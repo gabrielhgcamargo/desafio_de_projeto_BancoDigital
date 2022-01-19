@@ -25,7 +25,7 @@ IDE -> IntelliJ
 ```
 
 ```
-Instalar o plugin do Project Lomnbok no IntelliJ
+Instalar o plugin do Project Lombok no IntelliJ
 ```
 
 E enfim, clonar o repositório, utilizando o Download ZIP ou o comando git:
