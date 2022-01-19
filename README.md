@@ -19,3 +19,5 @@ Para auxiliar o entendimento do parágrafo acima, a classe 'MainExplicativo' do 
 
 
 Há também a classe 'MainComMenu' que é uma classe com o método main, que roda um Menu que permite a criação do Cliente e sua Conta Bancária, através do Console.
+
+Requisitos e Como rodar o Projeto
