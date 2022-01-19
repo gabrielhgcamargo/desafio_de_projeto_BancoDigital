@@ -8,11 +8,6 @@ Neste repositório se encontra o meu banco digital para o Desafio de Projeto, qu
 Vale ressaltar que para a instanciação de uma Conta, seja ela Conta Poupança ou Conta Corrente, deve-se ser realizado primeiramente a instanciação do Cliente. Após isso, será possível criar a Conta, e também realizar as ações disponibilizadas pelos métodos implementados.
 
 
-Para auxiliar o entendimento do parágrafo acima, a classe 'MainExplicativo' do projeto possui anotações e os objetos já estão instanciados na ordem correta, juntamente com o uso dos métodos.
-
-
-Há também a classe 'MainComMenu' que é uma classe com o método main, que roda um Menu que permite a criação do Cliente e sua Conta Bancária, através do Console.
-
 ### 🔧 Instalação
 
 Para que o projeto funcione como deveria, você deve:
@@ -29,6 +24,10 @@ Instalar o Maven -> https://maven.apache.org/
 IDE -> IntelliJ
 ```
 
+```
+Instalar o plugin do Project Lomnbok no IntelliJ
+```
+
 E enfim, clonar o repositório, utilizando o Download ZIP ou o comando git:
 
 ```
@@ -39,7 +38,11 @@ git clone https://github.com/gabrielhgcamargo/desafio_de_projeto_BancoDigital.gi
 
 ## ⚙️ Executando os testes
 
+#### :computer: Teste com Interface
+Ao rodar a classe [MainComMenu.java](https://github.com/gabrielhgcamargo/desafio_de_projeto_BancoDigital/blob/master/src/main/java/Menu/MainComMenu.java), exibirá uma interface simulando o cadastro do Cliente, e definindo que tipo de Conta esse Cliente terá. Em seguida será exibido um Menu, simulando um aplicativo do banco ou até mesmo o caixa eletrônico, onde é possível realizar um saque, depósito, transferência, e simulação de rendimento.
 
+#### :bookmark_tabs: Teste + Explicação de cada comando possível do projeto
+Também ao rodar a classe [MainExplicativo.java](https://github.com/gabrielhgcamargo/desafio_de_projeto_BancoDigital/blob/master/src/main/java/MainExplicativo.java), as instanciações serão feitas na ordem correta, juntamente com anotações comentadas explicando cada comando realizado.
 
 ## 🛠️ Construído com
 * [Java 11](https://dev.java/) - Linguagem Utilizada.
