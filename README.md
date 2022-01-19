@@ -52,4 +52,4 @@ Também ao rodar a classe [MainExplicativo.java](https://github.com/gabrielhgcam
 
 ------------
 
-Disponibilizado por [Gabriel Camargo](https://www.linkedin.com/in/gabrielhgcamargo/ "Gabriel Camargo").
+Disponibilizado por [Gabriel Camargo](https://www.linkedin.com/in/gabrielhgcamargo/ "Linkedin de Gabriel Camargo").
