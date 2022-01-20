@@ -13,7 +13,7 @@ Vale ressaltar que para a instanciação de uma Conta, seja ela Conta Poupança 
 Para que o projeto funcione como deveria, você deve:
 
 ```
-Instalar o Java 11 
+Instalar o Java JDK 11 
 ```
 
 ```
@@ -45,7 +45,7 @@ Ao rodar a classe [MainComMenu.java](https://github.com/gabrielhgcamargo/desafio
 Ao rodar a classe [MainExplicativo.java](https://github.com/gabrielhgcamargo/desafio_de_projeto_BancoDigital/blob/master/src/main/java/MainExplicativo.java), as instanciações serão feitas na ordem correta, juntamente com anotações comentadas explicando cada comando realizado.
 
 ## 🛠️ Construído com
-* [Java 11](https://dev.java/) - Linguagem Utilizada.
+* [Java JDK 11](https://dev.java/) - Linguagem Utilizada.
 * [Apache Maven 3.8.4](https://maven.apache.org/) -  Ferramenta de automação e gerenciamento de projetos Java.
 * [Lombok](https://projectlombok.org/) - Utilizado para diminuir a verbosidade de código.
 * [IntelliJ](https://www.jetbrains.com/pt-br/idea/) - Ambiente de Desenvolvimento utilizado.
